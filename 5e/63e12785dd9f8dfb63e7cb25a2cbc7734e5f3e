@@ -1,0 +1,14 @@
+annet/api/__init__.py
+  h_6c3769e1144e56 938-941
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "5e63e12785dd9f8dfb63e7cb25a2cbc7734e5f3e",
+  "prompts": {},
+  "humans": {
+    "h_6c3769e1144e56": {
+      "author": "Роман Карауланов <anteron@mts.ru>"
+    }
+  }
+}
