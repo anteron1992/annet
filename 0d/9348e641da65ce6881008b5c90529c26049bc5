@@ -1,0 +1,16 @@
+annet/api/__init__.py
+  h_6c3769e1144e56 938
+annet/rulebook/__init__.py
+  h_6c3769e1144e56 239,245-250
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "0d9348e641da65ce6881008b5c90529c26049bc5",
+  "prompts": {},
+  "humans": {
+    "h_6c3769e1144e56": {
+      "author": "Роман Карауланов <anteron@mts.ru>"
+    }
+  }
+}
