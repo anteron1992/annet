@@ -1,0 +1,30 @@
+annet/rulebook/types.py
+  s_8c4fd1d65483e0::t_838abfae760761 179
+annet/deploy.py
+  s_8c4fd1d65483e0::t_838abfae760761 201,222-223
+annet/annlib/command.py
+  s_8c4fd1d65483e0::t_838abfae760761 30
+tests/annet/test_deploying.py
+  s_8c4fd1d65483e0::t_8356c97bf0e467 52,55-61,63-64,72
+  s_8c4fd1d65483e0::t_a2af0263efc141 69,71
+  s_8c4fd1d65483e0::t_838abfae760761 39
+  s_8c4fd1d65483e0::t_9b929ca40c8362 48-51,53-54,62,65-68,70
+annet/rulebook/deploying.py
+  s_8c4fd1d65483e0::t_838abfae760761 44-47,98,140
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6f6a2f561dfc6e5e1b14ce97927cc65a7c3fb69f",
+  "prompts": {},
+  "sessions": {
+    "s_8c4fd1d65483e0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0c83a-5619-7042-ab18-93a8644cdf67",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Роман Карауланов <anteron@mts.ru>"
+    }
+  }
+}
