@@ -1,0 +1,14 @@
+annet/annlib/netdev/devdb/generated/__init__.pyi
+  h_6c3769e1144e56 56-57,399-400,417-422
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "370549d34fb02438dff77fb512594620bf341a53",
+  "prompts": {},
+  "humans": {
+    "h_6c3769e1144e56": {
+      "author": "Роман Карауланов <anteron@mts.ru>"
+    }
+  }
+}
